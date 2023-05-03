@@ -1,3 +1,5 @@
+package ABHISHEK.src;
+
 import java.util.Scanner;
 
 public class Digit {
