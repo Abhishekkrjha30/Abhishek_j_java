@@ -1,4 +1,4 @@
-package operators;
+package com.codingage.java.operators;
 
 public class Uniary {
     public static void main(String args[]){
