@@ -1,6 +1,6 @@
 package com.codingage.java.operators;
 
-public class Uniary {
+public class Unary {
     public static void main(String args[]){
 //        int a=3;
 //        float b=1.2f;
