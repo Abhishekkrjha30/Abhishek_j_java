@@ -1,3 +1,5 @@
+package com.codingage.java.Loop;
+
 import java.util.Scanner;
 
 public class Table {
@@ -5,7 +7,7 @@ public class Table {
         Scanner sc=new Scanner(System.in);
         int n= sc.nextInt();
         int sum;
-        System.out.printf("Table of %d.\n",n);
+        System.out.printf("com.codingage.java.Loop.Table of %d.\n",n);
         for (int i=1;i<=10;i++){
             sum=i*n;
             System.out.printf("%d*%d=%d\n",i,n,sum);

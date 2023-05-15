@@ -23,7 +23,7 @@ public class Armstrong_a_z {
                 s=s+sum;
             }
             if (s==a) {
-                System.out.println(a + "is Armstrong number.");
+                System.out.println(a + "is com.codingage.java.Loop.Armstrong number.");
             }
             a++;
         }

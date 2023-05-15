@@ -1,3 +1,5 @@
+package com.codingage.java.patternprinting;
+
 import java.util.Scanner;
 
 public class Starspacetr {

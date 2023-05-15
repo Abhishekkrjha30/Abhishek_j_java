@@ -1,3 +1,5 @@
+package com.codingage.java.Loop;
+
 import java.util.Scanner;
 
 public class Armstrong {
@@ -17,10 +19,10 @@ public class Armstrong {
             s=s+sum;
         }
         if(n==s){
-            System.out.println("Armstrong number");
+            System.out.println("com.codingage.java.Loop.Armstrong number");
         }
         else {
-            System.out.println("Not Armstrong number");
+            System.out.println("Not com.codingage.java.Loop.Armstrong number");
         }
     }
 }

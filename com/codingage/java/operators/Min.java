@@ -1,3 +1,5 @@
+package com.codingage.java.operators;
+
 import java.util.Scanner;
 
 public class Min {

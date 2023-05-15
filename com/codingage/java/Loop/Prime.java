@@ -1,3 +1,5 @@
+package com.codingage.java.Loop;
+
 import java.util.*;
 public class Prime {
     public static void main(String[] args){

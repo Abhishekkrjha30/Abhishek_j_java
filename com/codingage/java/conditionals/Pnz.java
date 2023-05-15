@@ -1,3 +1,5 @@
+package com.codingage.java.conditionals;
+
 import java.util.Scanner;
 
 public class Pnz {

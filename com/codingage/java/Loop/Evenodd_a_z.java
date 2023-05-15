@@ -1,3 +1,5 @@
+package com.codingage.java.Loop;
+
 import java.util.Scanner;
 
 public class Evenodd_a_z {

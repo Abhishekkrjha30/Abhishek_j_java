@@ -1,3 +1,5 @@
+package com.codingage.java.operators;
+
 import java.util.Scanner;
 
 public class Max {
@@ -6,6 +8,6 @@ public class Max {
         int a= sc.nextInt();
         int b= sc.nextInt();
         int c=a>b?a:b;
-        System.out.println("Max="+c);
+        System.out.println("com.codingage.java.operators.Max="+c);
     }
 }
