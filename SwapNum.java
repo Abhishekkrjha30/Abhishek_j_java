@@ -13,5 +13,9 @@ public class SwapNum {
         System.out.println("a="+a);
         System.out.println("b="+b);
 
+        int c=5;
+        int d=++c + --c;
+        System.out.println(c);
+
     }
 }
